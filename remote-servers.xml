@@ -2,8 +2,7 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="https://192.168.239.128:2376" />
-        <option name="certificatesPath" value="C:\keys" />
+        <option name="apiUrl" value="http://localhost:2375" />
         <option name="pathMappings">
           <list />
         </option>
