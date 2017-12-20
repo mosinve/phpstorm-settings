@@ -2,7 +2,7 @@
   <component name="HttpConfigurable">
     <option name="USE_PROXY_PAC" value="true" />
     <option name="PROXY_HOST" value="sb-proxy" />
-    <option name="PROXY_PORT" value="9090" />
+    <option name="PROXY_PORT" value="2121" />
     <option name="PROXY_AUTHENTICATION" value="true" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
     <option name="PROXY_EXCEPTIONS" value="172.22.*,10.128.*,localhost" />
