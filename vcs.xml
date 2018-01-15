@@ -50,9 +50,13 @@
           <option name="url" value="https://gitlab.com/finora/finora-rework-front.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bootstrap-vue/bootstrap-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Dev" />
+    <option name="cloneParentDir" value="D:\Devel" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
