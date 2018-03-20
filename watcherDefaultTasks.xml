@@ -13,7 +13,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="d:/dev/reestrius_spa/node_modules/.bin/babel.cmd" />
+      <option name="program" value="D:/Devel/yoduel-backend/node_modules/.bin/babylon" />
+      <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
