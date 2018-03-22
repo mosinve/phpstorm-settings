@@ -6,4 +6,11 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="fdf" value="fi-data-field(:label = '$t(&quot;$label$&quot;)')" description="FiDataField" toReformat="false" toShortenFQNames="true">
+    <variable name="label" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
