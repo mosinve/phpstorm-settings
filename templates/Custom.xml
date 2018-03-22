@@ -1,0 +1,9 @@
+<templateSet group="Custom">
+  <template name="fff" value="fi-form-field(:label = '$t(&quot;$label$&quot;)')" description="FiFormField" toReformat="false" toShortenFQNames="true">
+    <variable name="label" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>
